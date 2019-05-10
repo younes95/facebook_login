@@ -12,9 +12,9 @@ define('DB_NAME', 'facebook_api');
 define('DB_USER_TBL', 'users');
 
 // Facebook API configuration
-define('FB_APP_ID', '814006478965048');
-define('FB_APP_SECRET', 'b1738dc76e85c332d3f3bcef37d7dced');
-define('FB_REDIRECT_URL', 'http://localhost/facebook_login/');
+define('FB_APP_ID', '');
+define('FB_APP_SECRET', '');
+define('FB_REDIRECT_URL', '');
 
 
 // Start session
